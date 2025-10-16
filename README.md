@@ -64,6 +64,4 @@ Currently growing as a Junior Data Analyst, combining my analytical mindset with
 <Br>
 
 ------
-  
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
+
