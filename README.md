@@ -4,18 +4,27 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Flavio Lavín<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
+
+<Br>
+<hr>
+<Br>
+<h1>Some of my Projects! 🎨</h1>
+<Br>
+  
+[![ReadMe Card](https://github.com/flavioelavin-coder/Proyecto-Sprint-7.git)]
+
+
 <h1>About Me! 😎</h1>
 
 👋 Hi, I'm Flavio Lavín, a data analyst in training passionate about finding patterns that turn information into smart decisions.
 I work with Python, SQL, Power BI, and Tableau, creating dashboards and analytical models based on real-world data.
 Currently growing as a Junior Data Analyst, combining my analytical mindset with creativity and a drive for innovation.
   
-- 🌎 Location: Mexico
-- 💻 Currently working on: Data analysis projects with Python and SQL.
-- 📚 Learning: Machine Learning fundamentals & dashboard optimization.
-- 🤝 Open to collaborate on: Data analytics and visualization projects.
-- 🎯 Goal: Turning data into insights that drive real-world impact.
-- ⚡  Fun fact: I passionate about soccer, gym and DJ music.
+- Location: Mexico
+- Currently working on: Data analysis projects with Python and SQL.
+- Learning: Machine Learning fundamentals & dashboard optimization.
+- Open to collaborate on: Data analytics and visualization projects.
+- Goal: Turning data into insights that drive real-world impact.
   
 <hr>
 <Br>
