@@ -8,7 +8,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! </h1>
+<h1> My Projects </h1>
 <Br>
   
 [![ReadMe Card](https://github.com/flavioelavin-coder/Proyecto-Sprint-7.git)]
