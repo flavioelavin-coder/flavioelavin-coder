@@ -28,7 +28,7 @@ Currently growing as a Junior Data Analyst, combining my analytical mindset with
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">Get in Touch</h1>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/flavio-lavín" target="blank"><img align="center" src="https://img.shields.io/badge/Flavio Lavín-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:flavioe.lavin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/flavioe.lavin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/flavioelavin-coder" target="blank"><img align="center" src="https://img.shields.io/badge/Flaviolavin-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -37,7 +37,7 @@ Currently growing as a Junior Data Analyst, combining my analytical mindset with
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills I have!</h1>
+<h1 align="center">Skills I have</h1>
 <Br>
   
 |![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
@@ -48,7 +48,7 @@ Currently growing as a Junior Data Analyst, combining my analytical mindset with
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! </h1>
+<h1 align="center">Tools</h1>
 <Br>
  
 |![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
