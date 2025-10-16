@@ -37,7 +37,7 @@ Currently growing as a Junior Data Analyst, combining my analytical mindset with
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills I have</h1>
+<h1 align="center">Skills</h1>
 <Br>
   
 |![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
