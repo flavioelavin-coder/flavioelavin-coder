@@ -12,11 +12,14 @@
 <Br>
   
 <!-- Proyecto 1 -->
-[![Proyecto Sprint 7](https://raw.githubusercontent.com/flavioelavin-coder/flavioelavin-coder/main/assets/proyecto_sprint_7_preview.png)](https://github.com/flavioelavin-coder/Proyecto-Sprint-7)
-**[Analysis vehicles}(https://github.com/flavioelavin-coder/Proyecto-Sprint-7)**  
+[![Proyecto Sprint 7](https://raw.githubusercontent.com/flavioelavin-coder/flavioelavin-coder/main/assets/cars_analysis.preview.png)](https://github.com/flavioelavin-coder/Proyecto-Sprint-7)
+**[Analysis vehicles]((https://github.com/flavioelavin-coder/analisis_vehiculos.git))**  
 _análisis de datos de ventas | Python · Pandas · Plotly_  
 [![Repo size](https://img.shields.io/github/repo-size/flavioelavin-coder/Proyecto-Sprint-7)](https://github.com/flavioelavin-coder/Proyecto-Sprint-7) [![Stars](https://img.shields.io/github/stars/flavioelavin-coder/Proyecto-Sprint-7?style=social)](https://github.com/flavioelavin-coder/Proyecto-Sprint-7)
 
+[![Predicción de Precios](https://raw.githubusercontent.com/flavioelavin-coder/flavioelavin-coder/main/assets/prediccion_precios_preview.png)](https://github.com/flavioelavin-coder/prediccion_precios_autos)
+**[prediccion_precios_autos](https://github.com/flavioelavin-coder/prediccion_precios_autos)**  
+_modelo de regresión para estimar precio de autos | Scikit-learn · EDA_
 
 
 
