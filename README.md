@@ -16,9 +16,11 @@
 
 <h1>About Me </h1>
 
-Hi, I'm Flavio Lavín, a data analyst in training passionate about finding patterns that turn information into smart decisions.
-I work with Python, SQL, Power BI, and Tableau, creating dashboards and analytical models based on real-world data.
-Currently growing as a Junior Data Analyst, combining my analytical mindset with creativity and a drive for innovation.
+Data analyst in training focused on turning information into actionable strategies. I am passionate about understanding the numbers behind decisions and providing evidence-based solutions to improve project efficiency and growth.
+
+I work with Python, SQL, and Power BI, developing automations and dashboards that facilitate decision-making. I have completed projects that include automating reports with Python and creating interactive dashboards that summarize business KPIs in a clear and visual way.
+
+I am currently seeking to further develop my profile in the Data Analytics field, collaborating on projects where I can add value with precise analysis and effective visualizations.
   
 - Location: Mexico
 - Currently working on: Data analysis projects with Python and SQL.
