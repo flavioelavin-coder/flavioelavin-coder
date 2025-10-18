@@ -11,7 +11,13 @@
 <h1> My Projects </h1>
 <Br>
   
-[![ReadMe Card](https://github.com/flavioelavin-coder/Proyecto-Sprint-7.git)]
+<!-- Proyecto 1 -->
+[![Proyecto Sprint 7](https://raw.githubusercontent.com/flavioelavin-coder/flavioelavin-coder/main/assets/proyecto_sprint_7_preview.png)](https://github.com/flavioelavin-coder/Proyecto-Sprint-7)
+**[Proyecto Sprint 7](https://github.com/flavioelavin-coder/Proyecto-Sprint-7)**  
+_análisis de datos de ventas | Python · Pandas · Plotly_  
+[![Repo size](https://img.shields.io/github/repo-size/flavioelavin-coder/Proyecto-Sprint-7)](https://github.com/flavioelavin-coder/Proyecto-Sprint-7) [![Stars](https://img.shields.io/github/stars/flavioelavin-coder/Proyecto-Sprint-7?style=social)](https://github.com/flavioelavin-coder/Proyecto-Sprint-7)
+
+
 
 
 <h1>About Me </h1>
